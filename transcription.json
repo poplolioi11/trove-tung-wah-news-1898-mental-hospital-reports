@@ -1,0 +1,308 @@
+{
+  "metadata": {
+    "title": "《東華新報》精神照護記事（1898–1899）",
+    "catalogue_title": "悞捉瘋疾；貪色染瘋；瘋者亦樂",
+    "roman_title": "Donghua xinbao jingshen zhaohu jishi",
+    "author": "無署名（《東華新報》）",
+    "date": "1898年7月13日第4版、1898年8月10日第2版、1899年1月4日第2版。",
+    "location": "澳洲雪梨（原報刊行）；阿德雷德、布里斯本（報導地點）",
+    "repository": "澳洲國家圖書館 Trove（數位影像來源）",
+    "repository_en": "Trove, National Library of Australia (source of digitised images)",
+    "collection": "Trove Digitised Newspapers",
+    "shelfmark": "Tung Wah News, Trove newspaper pages 24102057, 24102091 and 24102251",
+    "language": "lzh",
+    "catalogue": "https://omaa-arts.sydney.edu.au/s/omaa/item/1314",
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "image_system": "catalogue",
+    "description": "雪梨《東華新報》在1898至1899年間刊載三則與精神疾病和院內生活有關的記事。〈悞捉瘋疾〉記黑列埠（阿德雷德）華人和利被疑患瘋疾而收置、轉入大醫院及康復後的謝宴。〈貪色染瘋〉記庇厘時賓埠（布里斯本）一男子入院、醫生察驗及其院內經歷。〈瘋者亦樂〉記同地數名患者向院方借艇作節日出遊。原報可供研究十九世紀澳洲華文社群對精神疾病、院內照護與日常活動的報導。",
+    "txt_reader_statement": "三期各取一篇有獨立題頭的原報新聞。7月13日及次年1月4日篇先讀原版下方一區，接同版稍左的上方一區，頭尾各十四欄；8月10日篇為七欄，末欄含雙小字。",
+    "tei_editorial_statement": "三篇各對應一張原報。原字、空圈、斜點、夾雙小字及兩篇上下分區之換欄次序依版面標記。",
+    "manifest_url": null,
+    "manifest_sha256": null,
+    "record_id": "TROVETW1898MENTAL",
+    "edition": "0.1.0",
+    "catalogue_main_scope": [
+      1,
+      2,
+      3
+    ],
+    "version": "0.1.0",
+    "dataset_title": "《東華新報》精神照護記事（1898–1899）（澳洲雪梨《東華新報》1898年7月13日第4版、8月10日第2版及1899年1月4日第2版。澳洲國家圖書館 Trove。） / Donghua xinbao jingshen zhaohu jishi [Reports on Mental Illness and Institutional Care in the Tung Wah News]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "catalogue_page": 1,
+      "issue_catalogue_url": "https://resources.chineseaustralia.org/tung_wah_newspaper_index/article_index?trove_id=24102057",
+      "page_html_sha256": "80fcb86f2377e4c7b9de931f5ea2d03a6948ffd84cb252559c26cff50528482b",
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102057",
+      "image_url": "https://trove.nla.gov.au/ndp/imageservice/nla.news-page24102057/level5",
+      "label": "Tung Wah News 1898-07-13, p. 4",
+      "file": "01.jpg",
+      "sha256": "4dc1e24b6fcc2c12584e47b3ec4defdf0222a8f84c95bbe6e3d95683b893120d",
+      "bytes": 2357701,
+      "native_width": 2939,
+      "native_height": 3956,
+      "issue_date": "1898-07-13",
+      "newspaper_page": 4,
+      "inspection_crop": "01-article.jpg",
+      "inspection_crop_sha256": "4570f9c677f4b47560cf1ba3b0c8f014fa2840fd936b26c6415ea86d5c6f82d5",
+      "printed_article_regions": [
+        [
+          1461,
+          2132,
+          1905,
+          3816
+        ],
+        [
+          1028,
+          385,
+          1462,
+          893
+        ]
+      ],
+      "continuation_crop": {
+        "file": "01-continuation-wide.jpg",
+        "sha256": "4789235774273104a48474257bdf37913d23dc65165ea26829823b31c1cea9b8"
+      },
+      "content_role": "binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "○誤捉瘋疾　黑列埠友函云、七月四號在該埠教堂、有華人名和利先生者、請華英各"
+            },
+            {
+              "text": "位食餐、預請帖三百、但各高慶來至五百、緣先生被皇家疑其瘋疾、悞捉入瘋院、後醫生"
+            },
+            {
+              "text": "驗明放出、故思所以酬謝、是晚亞廣先生為主席、曰、今晚各貴駕賁臨、為賀和利先生事、"
+            },
+            {
+              "text": "茲先生前因腳症、請西婦調理、用藥水一樽、頗有見效、後未曾再求、至五月十二號、突然"
+            },
+            {
+              "text": "皇家差人捉入瘋院、另被布帳居住、雪冷霜嚴風飄雨漏、飲食幾絕、蛇鼠殊多、真令幾不"
+            },
+            {
+              "text": "欲生、但念罔極之恩、纖毫未報、屈指計之、已十八日、於茲矣、至六月一號、皇家人到看、令"
+            },
+            {
+              "text": "入該埠大醫院、幸醫生與女工料理週全、六月廿號、全愈放出、見德重華嵩、愧無以謝、華"
+            },
+            {
+              "text": "人聞之、故特聯絡敬請、時"
+            },
+            {
+              "text": "有華英字銀牌、送度打士"
+            },
+            {
+              "text": "覺、度打勿當奴、度打拖、每"
+            },
+            {
+              "text": "名壹個、各位感謝、此乃維"
+            },
+            {
+              "text": "利先生善於佈置也、是時"
+            },
+            {
+              "text": "歌詩讚美、鼓掌交稱、乘興"
+            },
+            {
+              "text": "而來、亦興盡而返矣、"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "single",
+          "column": null,
+          "context": "",
+          "candidates": [],
+          "note": "《東華新報》1898年7月13日第4版下段。右邊界鄰欄是外電，左邊界鄰欄上部有神女一文題頭。可見本文最後一個字為華，下面是英文刊記，語句是否另處有續尚待核。"
+        }
+      ],
+      "observations": "同版前七欄末字華接左上首人聞之。補入左上窄排的七欄，至而返矣為止，窄排下方另起〈蔗園招工〉。"
+    },
+    {
+      "image": 2,
+      "catalogue_page": 2,
+      "issue_catalogue_url": "https://resources.chineseaustralia.org/tung_wah_newspaper_index/article_index?trove_id=24102091",
+      "page_html_sha256": "a64363473a3d6f5cb27d428456ef90916a27e66874e67f6af150baefa1251876",
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102091",
+      "image_url": "https://trove.nla.gov.au/ndp/imageservice/nla.news-page24102091/level5",
+      "label": "Tung Wah News 1898-08-10, p. 2",
+      "file": "02.jpg",
+      "sha256": "0ed4fc20d992cb5e052b072d06c814fc4c4b79b9304252da75a7f99ca616425f",
+      "bytes": 2203367,
+      "native_width": 2992,
+      "native_height": 3942,
+      "issue_date": "1898-08-10",
+      "newspaper_page": 2,
+      "printed_article_bbox": [
+        1496,
+        2333,
+        1943,
+        3028
+      ],
+      "inspection_crop": "02-article.jpg",
+      "inspection_crop_sha256": "8231dcd64f58264540a6dfcd08a92cbf1164d41b84c9c452c14a8c03fe052798",
+      "content_role": "binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "○貪色染瘋　坤士蘭省、庇厘時"
+            },
+            {
+              "text": "賓埠、有一西人、年方三十三歲、自"
+            },
+            {
+              "text": "交親至今、有兒女六名、家本貧乏、"
+            },
+            {
+              "text": "身操苦工、詎一旦染得瘋疾、被捉"
+            },
+            {
+              "text": "入醫院、而醫生驗之確然、奈何鍾"
+            },
+            {
+              "text": "情玉貌、不思李下避嫌、結想花容、"
+            },
+            {
+              "text": "竟作桑間訂好、風流也、而矣、"
+            }
+          ],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "第七欄「而」後夾小字",
+              "text": "災禍／伏□",
+              "column_anchor": 7,
+              "color": "unknown",
+              "lines": [
+                "災禍",
+                "伏□"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "single",
+          "column": 7,
+          "context": "第七欄「而」後夾小字",
+          "candidates": [],
+          "note": "此處墨跡或構件不清，以□保留未定字。"
+        }
+      ],
+      "observations": "單幅：《東華新報》1898年8月10日第2版中下段。右左分隔線、上橫線、下橫線皆見；末欄夾雙小字，其下接大字矣。"
+    },
+    {
+      "image": 3,
+      "catalogue_page": 3,
+      "issue_catalogue_url": "https://resources.chineseaustralia.org/tung_wah_newspaper_index/article_index?trove_id=24102251",
+      "page_html_sha256": "228bd17a5af0964aaaeec2697006a47cd055f6ec689a278fce0395e01be07f30",
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102251",
+      "image_url": "https://trove.nla.gov.au/ndp/imageservice/nla.news-page24102251/level5",
+      "label": "Tung Wah News 1899-01-04, p. 2",
+      "file": "03.jpg",
+      "sha256": "cdc38328236e2febc4e2cda7a2dc778959b82ec3155781e844de785249d128da",
+      "bytes": 2063362,
+      "native_width": 2992,
+      "native_height": 3969,
+      "issue_date": "1899-01-04",
+      "newspaper_page": 2,
+      "printed_article_regions": [
+        [
+          1921,
+          3160,
+          2350,
+          3661
+        ],
+        [
+          1487,
+          271,
+          1919,
+          1610
+        ]
+      ],
+      "inspection_crops": [
+        {
+          "file": "03-lower.jpg",
+          "sha256": "b97f944f318e38444af451f8fb0645d8d4de94c7d18928b4d286b984ffe5429a"
+        },
+        {
+          "file": "03-upper.jpg",
+          "sha256": "f4173da97b9190b4a29bbcfc730efc2c5cfec850821dd879b2d5efce9b85cb5c"
+        }
+      ],
+      "content_role": "binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "○瘋者亦樂　當此隆冬"
+            },
+            {
+              "text": "佳節、正人生行樂之時、或"
+            },
+            {
+              "text": "豪飲高歌、或泛舟躋巘、無"
+            },
+            {
+              "text": "論諸色人等、皆乘興而往、"
+            },
+            {
+              "text": "興盡而歸、所異者瘋人亦"
+            },
+            {
+              "text": "有此興舉、久嗟餅麴、縱釀"
+            },
+            {
+              "text": "熟鄰翁、安敢行同吏部、欲"
+            },
+            {
+              "text": "枯腸之稍潤、俾俗慮之潛消、是非三五成羣、飄然一葉不可、接二十九"
+            },
+            {
+              "text": "號洋報云、庇厘時賓埠、有西人發瘋者數名、昨禮拜一日大日子、以為"
+            },
+            {
+              "text": "佳節不可失、行樂須及時、遂向瘋院司事人、借艇仔一艘、以效子陵之"
+            },
+            {
+              "text": "釣為名、乃學劉伶之飲為實、及棹出遠處、舟泊蘆邊、人登蓼岸、見夫二"
+            },
+            {
+              "text": "八當壚、不必借問何處、乃往酒樓沽酒、共圖大醉、酒家人見是瘋人、不"
+            },
+            {
+              "text": "禁為之驚駭焉、從此渴疾已消、流涎稍慰、向煙波而返棹、恍入桃源、覺"
+            },
+            {
+              "text": "酩酊之扶歸、知酣竹葉、在人不堪其憂、而在彼不改其樂、噫異矣、"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：1899年1月4日《東華新報》第2版。本文先底端七欄，再接同版較左頂端七欄，下一欄〈紙難包火〉不收。"
+    }
+  ]
+}

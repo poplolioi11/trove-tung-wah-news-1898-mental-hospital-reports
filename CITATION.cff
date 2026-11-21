@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: If you use this dataset, please cite this version and the source copy.
+title: '《東華新報》精神照護記事（1898–1899）（澳洲雪梨《東華新報》1898年7月13日第4版、8月10日第2版及1899年1月4日第2版。澳洲國家圖書館
+  Trove。） / Donghua xinbao jingshen zhaohu jishi [Reports on Mental Illness and Institutional
+  Care in the Tung Wah News]: Transcription Dataset'
+type: dataset
+version: 0.1.0
+authors:
+- family-names: Chu
+  given-names: Chen-Yu
+  orcid: https://orcid.org/0009-0003-9738-6914
+repository-code: https://github.com/poplolioi11/trove-tung-wah-news-1898-mental-hospital-reports
+keywords:
+- 東華新報
+- 悞捉瘋疾
+- 誤捉瘋疾
+- 貪色染瘋
+- 瘋者亦樂
+- 精神醫學史
+- 院務史
+- Tung Wah News
+- mental health history
+- psychiatric hospital
+- institutional life
+- hospital commitment
+- Adelaide
+- Brisbane
+- Chinese Australian newspapers
+- National Library of Australia
+- Trove
+- '1898'
+- '1899'
+- TEI

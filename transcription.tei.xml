@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lzh">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>《東華新報》精神照護記事（1898–1899）</title>
+        <title type="alternate">Donghua xinbao jingshen zhaohu jishi</title>
+        <author>無署名（《東華新報》）</author>
+        <respStmt>
+          <resp>整理與編碼</resp>
+          <name>曲宸宇 (Chu, Chen-Yu)</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Transcription dataset v0.1.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>澳洲雪梨（原報刊行）；阿德雷德、布里斯本（報導地點）</settlement>
+            <repository>澳洲國家圖書館 Trove（數位影像來源）</repository>
+            <collection>Trove Digitised Newspapers</collection>
+            <idno>Tung Wah News, Trove newspaper pages 24102057, 24102091 and 24102251</idno>
+            <altIdentifier>
+              <idno>TROVETW1898MENTAL</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p>雪梨《東華新報》在1898至1899年間刊載三則與精神疾病和院內生活有關的記事。〈悞捉瘋疾〉記黑列埠（阿德雷德）華人和利被疑患瘋疾而收置、轉入大醫院及康復後的謝宴。〈貪色染瘋〉記庇厘時賓埠（布里斯本）一男子入院、醫生察驗及其院內經歷。〈瘋者亦樂〉記同地數名患者向院方借艇作節日出遊。原報可供研究十九世紀澳洲華文社群對精神疾病、院內照護與日常活動的報導。</p>
+              <ref target="https://omaa-arts.sydney.edu.au/s/omaa/item/1314">館方書目</ref>
+              <ref target="https://omaa-arts.sydney.edu.au/s/omaa/item/1314">館方影像清單</ref>
+            </summary>
+          </msContents>
+          <history>
+            <origin>
+              <p>1898年7月13日第4版、1898年8月10日第2版、1899年1月4日第2版。</p>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>三篇各對應一張原報。原字、空圈、斜點、夾雙小字及兩篇上下分區之換欄次序依版面標記。</p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1" corresp="https://trove.nla.gov.au/newspaper/page/24102057" xml:id="f01">
+      <graphic url="https://trove.nla.gov.au/ndp/imageservice/nla.news-page24102057/level5" />
+    </surface>
+    <surface n="2" corresp="https://trove.nla.gov.au/newspaper/page/24102091" xml:id="f02">
+      <graphic url="https://trove.nla.gov.au/ndp/imageservice/nla.news-page24102091/level5" />
+    </surface>
+    <surface n="3" corresp="https://trove.nla.gov.au/newspaper/page/24102251" xml:id="f03">
+      <graphic url="https://trove.nla.gov.au/ndp/imageservice/nla.news-page24102251/level5" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="codex">
+        <pb n="1" facs="#f01" />
+        <div n="1" type="scan" subtype="binding">
+          <div type="page-face" n="single">
+            <ab type="column" n="1" xml:id="f01-s-c01">
+              <seg type="diplomatic-text">○誤捉瘋疾　黑列埠友函云、七月四號在該埠教堂、有華人名和利先生者、請華英各</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f01-s-c02">
+              <seg type="diplomatic-text">位食餐、預請帖三百、但各高慶來至五百、緣先生被皇家疑其瘋疾、悞捉入瘋院、後醫生</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f01-s-c03">
+              <seg type="diplomatic-text">驗明放出、故思所以酬謝、是晚亞廣先生為主席、曰、今晚各貴駕賁臨、為賀和利先生事、</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f01-s-c04">
+              <seg type="diplomatic-text">茲先生前因腳症、請西婦調理、用藥水一樽、頗有見效、後未曾再求、至五月十二號、突然</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f01-s-c05">
+              <seg type="diplomatic-text">皇家差人捉入瘋院、另被布帳居住、雪冷霜嚴風飄雨漏、飲食幾絕、蛇鼠殊多、真令幾不</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f01-s-c06">
+              <seg type="diplomatic-text">欲生、但念罔極之恩、纖毫未報、屈指計之、已十八日、於茲矣、至六月一號、皇家人到看、令</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f01-s-c07">
+              <seg type="diplomatic-text">入該埠大醫院、幸醫生與女工料理週全、六月廿號、全愈放出、見德重華嵩、愧無以謝、華</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f01-s-c08">
+              <seg type="diplomatic-text">人聞之、故特聯絡敬請、時</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f01-s-c09">
+              <seg type="diplomatic-text">有華英字銀牌、送度打士</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f01-s-c10">
+              <seg type="diplomatic-text">覺、度打勿當奴、度打拖、每</seg>
+            </ab>
+            <ab type="column" n="11" xml:id="f01-s-c11">
+              <seg type="diplomatic-text">名壹個、各位感謝、此乃維</seg>
+            </ab>
+            <ab type="column" n="12" xml:id="f01-s-c12">
+              <seg type="diplomatic-text">利先生善於佈置也、是時</seg>
+            </ab>
+            <ab type="column" n="13" xml:id="f01-s-c13">
+              <seg type="diplomatic-text">歌詩讚美、鼓掌交稱、乘興</seg>
+            </ab>
+            <ab type="column" n="14" xml:id="f01-s-c14">
+              <seg type="diplomatic-text">而來、亦興盡而返矣、</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">同版前七欄末字華接左上首人聞之。補入左上窄排的七欄，至而返矣為止，窄排下方另起〈蔗園招工〉。</ab>
+            <ab type="transcription-issue" n="single:None">
+              <quote />
+              <note type="editorial">《東華新報》1898年7月13日第4版下段。右邊界鄰欄是外電，左邊界鄰欄上部有神女一文題頭。可見本文最後一個字為華，下面是英文刊記，語句是否另處有續尚待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="2" facs="#f02" />
+        <div n="2" type="scan" subtype="binding">
+          <div type="page-face" n="single">
+            <ab type="column" n="1" xml:id="f02-s-c01">
+              <seg type="diplomatic-text">○貪色染瘋　坤士蘭省、庇厘時</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f02-s-c02">
+              <seg type="diplomatic-text">賓埠、有一西人、年方三十三歲、自</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f02-s-c03">
+              <seg type="diplomatic-text">交親至今、有兒女六名、家本貧乏、</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f02-s-c04">
+              <seg type="diplomatic-text">身操苦工、詎一旦染得瘋疾、被捉</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f02-s-c05">
+              <seg type="diplomatic-text">入醫院、而醫生驗之確然、奈何鍾</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f02-s-c06">
+              <seg type="diplomatic-text">情玉貌、不思李下避嫌、結想花容、</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f02-s-c07">
+              <seg type="diplomatic-text">竟作桑間訂好、風流也、而矣、</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f02-s-c07">
+              <label>第七欄「而」後夾小字</label>
+              <seg type="diplomatic-text" rend="unknown">災禍／伏□</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：《東華新報》1898年8月10日第2版中下段。右左分隔線、上橫線、下橫線皆見；末欄夾雙小字，其下接大字矣。</ab>
+            <ab type="transcription-issue" n="single:7">
+              <quote>第七欄「而」後夾小字</quote>
+              <note type="editorial">此處墨跡或構件不清，以□保留未定字。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="3" facs="#f03" />
+        <div n="3" type="scan" subtype="binding">
+          <div type="page-face" n="single">
+            <ab type="column" n="1" xml:id="f03-s-c01">
+              <seg type="diplomatic-text">○瘋者亦樂　當此隆冬</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f03-s-c02">
+              <seg type="diplomatic-text">佳節、正人生行樂之時、或</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f03-s-c03">
+              <seg type="diplomatic-text">豪飲高歌、或泛舟躋巘、無</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f03-s-c04">
+              <seg type="diplomatic-text">論諸色人等、皆乘興而往、</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f03-s-c05">
+              <seg type="diplomatic-text">興盡而歸、所異者瘋人亦</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f03-s-c06">
+              <seg type="diplomatic-text">有此興舉、久嗟餅麴、縱釀</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f03-s-c07">
+              <seg type="diplomatic-text">熟鄰翁、安敢行同吏部、欲</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f03-s-c08">
+              <seg type="diplomatic-text">枯腸之稍潤、俾俗慮之潛消、是非三五成羣、飄然一葉不可、接二十九</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f03-s-c09">
+              <seg type="diplomatic-text">號洋報云、庇厘時賓埠、有西人發瘋者數名、昨禮拜一日大日子、以為</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f03-s-c10">
+              <seg type="diplomatic-text">佳節不可失、行樂須及時、遂向瘋院司事人、借艇仔一艘、以效子陵之</seg>
+            </ab>
+            <ab type="column" n="11" xml:id="f03-s-c11">
+              <seg type="diplomatic-text">釣為名、乃學劉伶之飲為實、及棹出遠處、舟泊蘆邊、人登蓼岸、見夫二</seg>
+            </ab>
+            <ab type="column" n="12" xml:id="f03-s-c12">
+              <seg type="diplomatic-text">八當壚、不必借問何處、乃往酒樓沽酒、共圖大醉、酒家人見是瘋人、不</seg>
+            </ab>
+            <ab type="column" n="13" xml:id="f03-s-c13">
+              <seg type="diplomatic-text">禁為之驚駭焉、從此渴疾已消、流涎稍慰、向煙波而返棹、恍入桃源、覺</seg>
+            </ab>
+            <ab type="column" n="14" xml:id="f03-s-c14">
+              <seg type="diplomatic-text">酩酊之扶歸、知酣竹葉、在人不堪其憂、而在彼不改其樂、噫異矣、</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：1899年1月4日《東華新報》第2版。本文先底端七欄，再接同版較左頂端七欄，下一欄〈紙難包火〉不收。</ab>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

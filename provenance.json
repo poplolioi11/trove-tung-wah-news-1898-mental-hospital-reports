@@ -1,0 +1,34 @@
+{
+  "historical_author": "無署名（《東華新報》）",
+  "source_identity": "Tung Wah News, Trove newspaper pages 24102057, 24102091 and 24102251",
+  "source": "https://trove.nla.gov.au/newspaper/page/24102057",
+  "source_image_viewer": "https://trove.nla.gov.au/newspaper/page/24102091",
+  "source_rights_policy": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "dataset_version": "0.1.0",
+  "scan_count": 3,
+  "content_scan_count": 3,
+  "review_status": "initial-transcription",
+  "source_image_inventory": [
+    {
+      "image": 1,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102057",
+      "label": "Tung Wah News 1898-07-13, p. 4",
+      "sha256": "4dc1e24b6fcc2c12584e47b3ec4defdf0222a8f84c95bbe6e3d95683b893120d",
+      "content_role": "binding"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102091",
+      "label": "Tung Wah News 1898-08-10, p. 2",
+      "sha256": "0ed4fc20d992cb5e052b072d06c814fc4c4b79b9304252da75a7f99ca616425f",
+      "content_role": "binding"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102251",
+      "label": "Tung Wah News 1899-01-04, p. 2",
+      "sha256": "cdc38328236e2febc4e2cda7a2dc778959b82ec3155781e844de785249d128da",
+      "content_role": "binding"
+    }
+  ]
+}
