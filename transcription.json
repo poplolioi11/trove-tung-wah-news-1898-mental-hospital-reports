@@ -20,15 +20,15 @@
     "manifest_url": null,
     "manifest_sha256": null,
     "record_id": "TROVETW1898MENTAL",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": [
       1,
       2,
       3
     ],
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "《東華新報》精神照護記事（1898–1899）（澳洲雪梨《東華新報》1898年7月13日第4版、8月10日第2版及1899年1月4日第2版。澳洲國家圖書館 Trove。） / Donghua xinbao jingshen zhaohu jishi [Reports on Mental Illness and Institutional Care in the Tung Wah News]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -71,13 +71,13 @@
         "sha256": "4789235774273104a48474257bdf37913d23dc65165ea26829823b31c1cea9b8"
       },
       "content_role": "binding",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "single",
           "columns": [
             {
-              "text": "○誤捉瘋疾　黑列埠友函云、七月四號在該埠教堂、有華人名和利先生者、請華英各"
+              "text": "○悞捉瘋疾　黑列埠友函云、七月四號在該埠教堂、有華人名和利先生者、請華英各"
             },
             {
               "text": "位食餐、預請帖三百、但各高慶來至五百、緣先生被皇家疑其瘋疾、悞捉入瘋院、後醫生"
@@ -104,7 +104,7 @@
               "text": "有華英字銀牌、送度打士"
             },
             {
-              "text": "覺、度打勿當奴、度打拖、每"
+              "text": "覓、度打勿當奴、度打拖、每"
             },
             {
               "text": "名壹個、各位感謝、此乃維"
@@ -125,13 +125,76 @@
       "issues": [
         {
           "side": "single",
-          "column": null,
-          "context": "",
-          "candidates": [],
-          "note": "《東華新報》1898年7月13日第4版下段。右邊界鄰欄是外電，左邊界鄰欄上部有神女一文題頭。可見本文最後一個字為華，下面是英文刊記，語句是否另處有續尚待核。"
+          "column": 4,
+          "context": "腳症",
+          "candidates": [
+            "腳",
+            "脚"
+          ],
+          "note": "兩稿所讀形近。右邊筆畫連結，留原讀並列異體。",
+          "source_bbox": [
+            1659,
+            2494,
+            1741,
+            2601
+          ]
+        },
+        {
+          "side": "single",
+          "column": 8,
+          "context": "故特聯絡",
+          "candidates": [
+            "特",
+            "持"
+          ],
+          "note": "左旁短筆與豎連接，候特／持，未以規則改正文。",
+          "source_bbox": [
+            1412,
+            561,
+            1462,
+            628
+          ]
+        },
+        {
+          "side": "single",
+          "column": 11,
+          "context": "名壹個",
+          "candidates": [
+            "個",
+            "佃"
+          ],
+          "note": "原印亻旁、右框內線相連。留初讀並附另一形。",
+          "source_bbox": [
+            1235,
+            476,
+            1305,
+            532
+          ]
         }
       ],
-      "observations": "同版前七欄末字華接左上首人聞之。補入左上窄排的七欄，至而返矣為止，窄排下方另起〈蔗園招工〉。"
+      "observations": "1898年7月13日第5號第4版。自下方第1至7欄末華，接同版左上方第8欄首人聞之，至第14欄末返矣。中段左鄰是另一題神女報文，下方為英文刊記，均不計入。",
+      "facsimile_regions": [
+        {
+          "id": "f01-article-group-1",
+          "type": "article-column-group",
+          "bbox": [
+            1461,
+            2132,
+            1905,
+            3816
+          ]
+        },
+        {
+          "id": "f01-article-group-2",
+          "type": "article-column-group",
+          "bbox": [
+            1028,
+            385,
+            1462,
+            893
+          ]
+        }
+      ]
     },
     {
       "image": 2,
@@ -157,7 +220,7 @@
       "inspection_crop": "02-article.jpg",
       "inspection_crop_sha256": "8231dcd64f58264540a6dfcd08a92cbf1164d41b84c9c452c14a8c03fe052798",
       "content_role": "binding",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "single",
@@ -181,34 +244,69 @@
               "text": "情玉貌、不思李下避嫌、結想花容、"
             },
             {
-              "text": "竟作桑間訂好、風流也、而矣、"
-            }
-          ],
-          "extras": [
-            {
-              "type": "copy-annotation",
-              "location": "第七欄「而」後夾小字",
-              "text": "災禍／伏□",
-              "column_anchor": 7,
-              "color": "unknown",
-              "lines": [
-                "災禍",
-                "伏□"
+              "text": "竟作桑間訂好、風流也、而矣、",
+              "notes": [
+                {
+                  "after": 12,
+                  "lines": [
+                    "災禍",
+                    "伏焉、"
+                  ],
+                  "source_bbox": [
+                    1510,
+                    2846,
+                    1570,
+                    2942
+                  ],
+                  "color": "black"
+                }
               ]
             }
-          ]
+          ],
+          "extras": []
         }
       ],
       "issues": [
         {
           "side": "single",
-          "column": 7,
-          "context": "第七欄「而」後夾小字",
-          "candidates": [],
-          "note": "此處墨跡或構件不清，以□保留未定字。"
+          "column": 6,
+          "context": "玉貌",
+          "candidates": [
+            "玉貌",
+            "王貌"
+          ],
+          "note": "右下小墨痕使玉較合原形，獨立稿另候王。",
+          "source_bbox": [
+            1552,
+            2415,
+            1618,
+            2520
+          ]
         }
       ],
-      "observations": "單幅：《東華新報》1898年8月10日第2版中下段。右左分隔線、上橫線、下橫線皆見；末欄夾雙小字，其下接大字矣。"
+      "observations": "1898年8月10日第2版。原版七欄，題在第一欄內。第七欄而後有成對小欄，先右後左，接原欄大字矣。",
+      "facsimile_regions": [
+        {
+          "id": "f02-article-group-1",
+          "type": "article-column-group",
+          "bbox": [
+            1496,
+            2333,
+            1943,
+            3028
+          ]
+        },
+        {
+          "id": "f02-inline-small-column-pair",
+          "type": "printed-small-text",
+          "bbox": [
+            1510,
+            2846,
+            1570,
+            2942
+          ]
+        }
+      ]
     },
     {
       "image": 3,
@@ -250,7 +348,7 @@
         }
       ],
       "content_role": "binding",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "single",
@@ -271,7 +369,7 @@
               "text": "興盡而歸、所異者瘋人亦"
             },
             {
-              "text": "有此興舉、久嗟餅麴、縱釀"
+              "text": "有此興舉、久嗟餅□、縱釀"
             },
             {
               "text": "熟鄰翁、安敢行同吏部、欲"
@@ -280,7 +378,7 @@
               "text": "枯腸之稍潤、俾俗慮之潛消、是非三五成羣、飄然一葉不可、接二十九"
             },
             {
-              "text": "號洋報云、庇厘時賓埠、有西人發瘋者數名、昨禮拜一日大日子、以為"
+              "text": "號洋報云、庇厘時𡁟埠、有西人發瘋者數名、昨禮拜一日大日子、以為"
             },
             {
               "text": "佳節不可失、行樂須及時、遂向瘋院司事人、借艇仔一艘、以效子陵之"
@@ -301,8 +399,79 @@
           "extras": []
         }
       ],
-      "issues": [],
-      "observations": "單幅：1899年1月4日《東華新報》第2版。本文先底端七欄，再接同版較左頂端七欄，下一欄〈紙難包火〉不收。"
+      "issues": [
+        {
+          "side": "single",
+          "column": 6,
+          "context": "久嗟餅□",
+          "candidates": [
+            "罄",
+            "墊"
+          ],
+          "note": "餅後字下部近土，兩讀不能定，候罄或墊。",
+          "source_bbox": [
+            1981,
+            3463,
+            2050,
+            3599
+          ]
+        },
+        {
+          "side": "single",
+          "column": 8,
+          "context": "接二十九",
+          "candidates": [
+            "接",
+            "按"
+          ],
+          "note": "手旁右上印筆連合，另一讀作按，待更清楚原件。",
+          "source_bbox": [
+            1857,
+            1426,
+            1910,
+            1501
+          ]
+        },
+        {
+          "side": "single",
+          "column": 14,
+          "context": "知酣竹葉",
+          "candidates": [
+            "酣",
+            "斟"
+          ],
+          "note": "左側酉框相近，右部短橫印墨接合。",
+          "source_bbox": [
+            1487,
+            524,
+            1532,
+            603
+          ]
+        }
+      ],
+      "observations": "1899年1月4日第2版。最下方第1至7欄，跨欲接左上方第8欄之枯腸，至第14欄末噫異矣。上段左另起紙難包火，下另題暹法傷和。",
+      "facsimile_regions": [
+        {
+          "id": "f03-article-group-1",
+          "type": "article-column-group",
+          "bbox": [
+            1921,
+            3160,
+            2350,
+            3661
+          ]
+        },
+        {
+          "id": "f03-article-group-2",
+          "type": "article-column-group",
+          "bbox": [
+            1487,
+            271,
+            1919,
+            1610
+          ]
+        }
+      ]
     }
   ]
 }

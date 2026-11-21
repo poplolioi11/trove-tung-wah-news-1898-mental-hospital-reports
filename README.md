@@ -4,11 +4,11 @@
 
 The Sydney newspaper Tung Wah News published three reports on mental illness and hospital life in 1898–1899. The July 1898 item describes a Chinese man in Adelaide who was said to have been wrongly confined, his transfer and recovery, and a gathering to thank those involved. The August item describes a man’s admission and examination in Brisbane. The January 1899 item recounts a group of Brisbane patients borrowing a hospital boat for a holiday outing. The three items document how the Chinese-language press described admission, care and institutional life in late-nineteenth-century Australia.
 
-## V0.1.0
+## V0.2.0
 
-三期各取一篇有獨立題頭的原報新聞。7月13日及次年1月4日篇先讀原版下方一區，接同版稍左的上方一區，頭尾各十四欄；8月10日篇為七欄，末欄含雙小字。 TXT、JSON、TEI XML 保留35個可回原圖的原欄。兩份 AI 原圖轉錄獨立產生後回圖覆核，保留尚有疑義的字。尚未經人類全文雙校、專家審定或準確率量測。
+三期各取一篇有獨立題頭的原報新聞。7月13日及次年1月4日篇先讀原版下方一區，接同版稍左的上方一區，頭尾各十四欄；8月10日篇為七欄，末欄含雙小字。 TXT、JSON、TEI XML 保留35個可回原圖的原欄。比對獨立原圖讀法後回圖裁定，採用 5 筆訂正，留存疑讀定位。
 
-TXT, JSON and TEI XML provide 35 source-linked columns across three complete articles. The first and third jump from a lower section to the upper section to its left. The second includes a two-column inset. Two independent AI-assisted source readings were reviewed against the scans. Uncertain readings are marked. Full human double proofreading, specialist review and accuracy measurement remain pending.
+TXT, JSON and TEI XML provide 35 source-linked columns across three complete articles. The first and third jump from a lower section to the upper section to its left. The second includes a two-column inset. An independent image reading was compared with the first transcription. Source-image adjudication adopted 5 changes and retained unresolved readings.
 
 ## 資料與原件 / Data and source
 

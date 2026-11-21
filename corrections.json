@@ -1,0 +1,359 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 5,
+  "changes": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": 1,
+      "kind": "main",
+      "op": "replace",
+      "before": "○誤捉瘋疾",
+      "after": "○悞捉瘋疾",
+      "reason": "核得較大裁幅，字左為忄，與同篇次欄悞同形，保留忄旁異體。",
+      "source_bbox": [
+        1817,
+        2170,
+        1925,
+        2290
+      ],
+      "offset": [
+        0,
+        5
+      ],
+      "source_image_sha256": "4dc1e24b6fcc2c12584e47b3ec4defdf0222a8f84c95bbe6e3d95683b893120d",
+      "canvas": "https://trove.nla.gov.au/newspaper/page/24102057"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 10,
+      "kind": "main",
+      "op": "replace",
+      "before": "覺、度打",
+      "after": "覓、度打",
+      "reason": "較高對比可見上爫下見，頂端無冕的曰框。此處是上一欄度打士後的音譯字，未逕定現代人名。",
+      "source_bbox": [
+        1279,
+        386,
+        1357,
+        454
+      ],
+      "offset": [
+        0,
+        4
+      ],
+      "source_image_sha256": "4dc1e24b6fcc2c12584e47b3ec4defdf0222a8f84c95bbe6e3d95683b893120d",
+      "canvas": "https://trove.nla.gov.au/newspaper/page/24102057"
+    },
+    {
+      "image": 3,
+      "side": "single",
+      "column": 6,
+      "kind": "main",
+      "op": "replace",
+      "before": "餅麴",
+      "after": "餅□",
+      "reason": "原印下部近土，與麴右勹米不合，無充分資訊定整字，保留缺字位。",
+      "source_bbox": [
+        1981,
+        3463,
+        2050,
+        3599
+      ],
+      "offset": [
+        7,
+        9
+      ],
+      "source_image_sha256": "cdc38328236e2febc4e2cda7a2dc778959b82ec3155781e844de785249d128da",
+      "canvas": "https://trove.nla.gov.au/newspaper/page/24102251"
+    },
+    {
+      "image": 3,
+      "side": "single",
+      "column": 9,
+      "kind": "main",
+      "op": "replace",
+      "before": "庇厘時賓埠",
+      "after": "庇厘時𡁟埠",
+      "reason": "放大可見原字左口、右賓，下部貝；用同構字𡁟（U+2105F）。8月字無口旁，兩期各照寫。",
+      "source_bbox": [
+        1790,
+        575,
+        1900,
+        675
+      ],
+      "offset": [
+        5,
+        10
+      ],
+      "source_image_sha256": "cdc38328236e2febc4e2cda7a2dc778959b82ec3155781e844de785249d128da",
+      "canvas": "https://trove.nla.gov.au/newspaper/page/24102251"
+    },
+    {
+      "image": 2,
+      "side": "single",
+      "column": 7,
+      "kind": "paratext",
+      "op": "update-reading",
+      "before": "災禍／伏□",
+      "after": "災禍／伏焉、",
+      "reason": "原幅局部放大可見右災禍、左伏焉，焉左下另有小斜點，接原欄大字矣。",
+      "source_bbox": [
+        1510,
+        2846,
+        1570,
+        2942
+      ],
+      "source_image_sha256": "0ed4fc20d992cb5e052b072d06c814fc4c4b79b9304252da75a7f99ca616425f",
+      "canvas": "https://trove.nla.gov.au/newspaper/page/24102091"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": null,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102057",
+      "status": "字形或版面待核"
+    },
+    {
+      "image": 2,
+      "side": "single",
+      "column": 7,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102091",
+      "status": "字形或版面待核"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 4,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102057",
+      "status": "字形待核"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 8,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102057",
+      "status": "字形待核"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 11,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102057",
+      "status": "字形待核"
+    },
+    {
+      "image": 2,
+      "side": "single",
+      "column": 6,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102091",
+      "status": "字形待核"
+    },
+    {
+      "image": 3,
+      "side": "single",
+      "column": 6,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102251",
+      "status": "字形待核"
+    },
+    {
+      "image": 3,
+      "side": "single",
+      "column": 8,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102251",
+      "status": "字形待核"
+    },
+    {
+      "image": 3,
+      "side": "single",
+      "column": 14,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102251",
+      "status": "字形待核"
+    }
+  ],
+  "retained_readings": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": 1,
+      "source_image_sha256": "4dc1e24b6fcc2c12584e47b3ec4defdf0222a8f84c95bbe6e3d95683b893120d",
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102057",
+      "reading": "黑列埠友函云",
+      "status": "依原圖留讀",
+      "reason": "照原報地名轉錄。Tung Wah Newspaper Index 將此地定位為 Adelaide。"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 1,
+      "source_image_sha256": "4dc1e24b6fcc2c12584e47b3ec4defdf0222a8f84c95bbe6e3d95683b893120d",
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102057",
+      "reading": "教堂、有華人名和利先生者",
+      "status": "依原圖留讀",
+      "reason": "教堂下右可見斜點，原報人名作和利。"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 2,
+      "source_image_sha256": "4dc1e24b6fcc2c12584e47b3ec4defdf0222a8f84c95bbe6e3d95683b893120d",
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102057",
+      "reading": "悞捉入瘋院",
+      "status": "依原圖留讀",
+      "reason": "首字忄旁與原題同形。"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 5,
+      "source_image_sha256": "4dc1e24b6fcc2c12584e47b3ec4defdf0222a8f84c95bbe6e3d95683b893120d",
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102057",
+      "reading": "布帳居住、雪冷霜嚴",
+      "status": "依原圖留讀",
+      "reason": "保留受訪者所述收置情況與原版用字。"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 7,
+      "source_image_sha256": "4dc1e24b6fcc2c12584e47b3ec4defdf0222a8f84c95bbe6e3d95683b893120d",
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102057",
+      "reading": "女工料理週全、六月廿號、全愈放出",
+      "status": "依原圖留讀",
+      "reason": "報文說照護與轉歸，廿形及末四字可辨。"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 7,
+      "source_image_sha256": "4dc1e24b6fcc2c12584e47b3ec4defdf0222a8f84c95bbe6e3d95683b893120d",
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102057",
+      "reading": "愧無以謝、華",
+      "status": "依原圖留讀",
+      "reason": "刊記緊接本欄底下，文本由華跨至稍左上方另區的「人聞之」。"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 8,
+      "source_image_sha256": "4dc1e24b6fcc2c12584e47b3ec4defdf0222a8f84c95bbe6e3d95683b893120d",
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102057",
+      "reading": "人聞之",
+      "status": "依原圖留讀",
+      "reason": "左上窄排第1欄接下排末華。"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 14,
+      "source_image_sha256": "4dc1e24b6fcc2c12584e47b3ec4defdf0222a8f84c95bbe6e3d95683b893120d",
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102057",
+      "reading": "而來、亦興盡而返矣、",
+      "status": "依原圖留讀",
+      "reason": "左上窄排第7欄收束，下方另起蔗園招工。"
+    },
+    {
+      "image": 2,
+      "side": "single",
+      "column": 1,
+      "source_image_sha256": "0ed4fc20d992cb5e052b072d06c814fc4c4b79b9304252da75a7f99ca616425f",
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102091",
+      "reading": "貪色染瘋",
+      "status": "依原圖留讀",
+      "reason": "染上部三點水及九，下部木。與同篇染得之染相合。"
+    },
+    {
+      "image": 2,
+      "side": "single",
+      "column": 1,
+      "source_image_sha256": "0ed4fc20d992cb5e052b072d06c814fc4c4b79b9304252da75a7f99ca616425f",
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102091",
+      "reading": "坤士蘭省、庇厘時",
+      "status": "依原圖留讀",
+      "reason": "坤从土、庇从广。後一欄的賓埠與此構成原地名。"
+    },
+    {
+      "image": 2,
+      "side": "single",
+      "column": 4,
+      "source_image_sha256": "0ed4fc20d992cb5e052b072d06c814fc4c4b79b9304252da75a7f99ca616425f",
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102091",
+      "reading": "瘋疾、被捉",
+      "status": "依原圖留讀",
+      "reason": "保留報文描述，與現代分類無直接等號。"
+    },
+    {
+      "image": 2,
+      "side": "single",
+      "column": 5,
+      "source_image_sha256": "0ed4fc20d992cb5e052b072d06c814fc4c4b79b9304252da75a7f99ca616425f",
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102091",
+      "reading": "入醫院、而醫生驗之確然",
+      "status": "依原圖留讀",
+      "reason": "入院和醫生檢驗同在這欄。"
+    },
+    {
+      "image": 3,
+      "side": "single",
+      "column": 1,
+      "source_image_sha256": "cdc38328236e2febc4e2cda7a2dc778959b82ec3155781e844de785249d128da",
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102251",
+      "reading": "瘋者亦樂",
+      "status": "依原圖留讀",
+      "reason": "原版下端有題並空心圈。"
+    },
+    {
+      "image": 3,
+      "side": "single",
+      "column": 7,
+      "source_image_sha256": "cdc38328236e2febc4e2cda7a2dc778959b82ec3155781e844de785249d128da",
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102251",
+      "reading": "部、欲",
+      "status": "依原圖留讀",
+      "reason": "下端末欲接左上另一區首枯腸。"
+    },
+    {
+      "image": 3,
+      "side": "single",
+      "column": 8,
+      "source_image_sha256": "cdc38328236e2febc4e2cda7a2dc778959b82ec3155781e844de785249d128da",
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102251",
+      "reading": "枯腸之稍潤",
+      "status": "依原圖留讀",
+      "reason": "原報上端右界照讀，承接下端「欲」。"
+    },
+    {
+      "image": 3,
+      "side": "single",
+      "column": 10,
+      "source_image_sha256": "cdc38328236e2febc4e2cda7a2dc778959b82ec3155781e844de785249d128da",
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102251",
+      "reading": "瘋院司事人、借艇仔一艘",
+      "status": "依原圖留讀",
+      "reason": "司事人與借艇沿原文。"
+    },
+    {
+      "image": 3,
+      "side": "single",
+      "column": 12,
+      "source_image_sha256": "cdc38328236e2febc4e2cda7a2dc778959b82ec3155781e844de785249d128da",
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102251",
+      "reading": "八當壚",
+      "status": "依原圖留讀",
+      "reason": "放大見土旁，右下見皿形閉框，照錄壚字。"
+    },
+    {
+      "image": 3,
+      "side": "single",
+      "column": 14,
+      "source_image_sha256": "cdc38328236e2febc4e2cda7a2dc778959b82ec3155781e844de785249d128da",
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102251",
+      "reading": "噫異矣、",
+      "status": "依原圖留讀",
+      "reason": "末字識別及斜點明，左欄另起紙難包火。"
+    }
+  ]
+}
